@@ -1,0 +1,11 @@
+Train;Number_of_cars;Number_of_different_loads;num_wheels1;length1;shape1;num_loads1;load_shape1;num_wheels2;length2;shape2;num_loads2;load_shape2;num_wheels3;length3;shape3;num_loads3;load_shape3;num_wheels4;length4;shape4;num_loads4;load_shape4;Rectangle_next_to_rectangle;Rectangle_next_to_triangle;Rectangle_next_to_5;Rectangle_next_to_circle;Triangle_next_to_triangle;Triangle_next_to_5;Triangle_next_to_circle;5_next_to_5;5_next_to_circle;Circle_next_to_circle;GoingTo
+1;5;4;2;2;1;3;3;2;1;4;1;2;3;2;1;1;5;2;1;1;1;1;0;1;0;0;0;1;0;0;1;0;1
+2;4;3;2;1;2;1;2;2;1;3;1;3;2;1;5;2;1;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;1
+3;4;2;2;1;1;1;1;2;1;5;1;2;3;2;5;1;2;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1
+4;5;2;2;1;3;1;2;2;1;4;1;2;2;1;7;1;3;2;1;1;1;3;1;1;0;0;1;0;0;0;0;0;1
+5;4;3;2;1;4;1;2;3;2;5;1;3;2;1;5;1;1;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;1
+6;3;2;2;2;5;3;1;2;1;1;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+7;4;2;2;1;4;1;1;2;1;2;1;2;2;2;6;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+8;3;2;3;2;5;1;3;2;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+9;5;2;2;1;3;1;1;2;2;6;1;3;2;1;1;1;3;2;1;3;1;1;1;0;0;1;0;0;0;0;0;0;0
+10;3;1;2;1;2;1;3;2;2;1;2;3;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
