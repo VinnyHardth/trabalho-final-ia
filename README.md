@@ -1,5 +1,12 @@
 # Tutorial: Implementando Regras como Axiomas com LTN
 
+Equipe:
+
+- Elian Souza
+- Josival Salvador
+- Richard Auzier
+- Vinícius Fonseca
+
 Este tutorial fornece um guia para criar e testar axiomas usando abordagens inspiradas na estrutura do LTNtorch. Vamos explorar como definir, implementar e validar axiomas em um ambiente similar, destacando os princípios da Lógica Tensorial.
 
 ## Introdução
